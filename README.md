@@ -1,1 +1,1 @@
-# aki_oliguria
+# AKI(Oliguria) prediction
